@@ -66,6 +66,16 @@ main {
 
 /*Footer----------------------------- */
 
-footer {
-    background-color:red;
+
+#social-network {
+    text-align: center;
+    padding: 20px 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-network i {
+    font-size: 140%;
+    padding: 8%;
+    color: rgb(173, 216, 230);
 }
