@@ -1,3 +1,7 @@
+/* Google Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/*   Default settings set to 0 using border box */
 * {
     padding: 0;
     margin: 0;
@@ -17,6 +21,10 @@ header {
     background-color:yellow;
 }
 
+header a { 
+    text-decoration: none;
+}
+
 h1 {
     font-family: 'Oswald',sans-serif;
     text-transform: uppercase;
@@ -26,10 +34,15 @@ h1 {
 #navigation {
     font-size: 120%;
     letter-spacing: 0.5px;
+    list-style-type: none;
 }
 
 #navigation > li {
     margin-bottom: 2px;
+}
+
+.active {
+    border-bottom: 1px;
 }
 
 /* Main-------------------------------- */
