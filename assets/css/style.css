@@ -1,9 +1,24 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*Header ----------------------------------- */
 header {
     background-color:yellow
 }
+/* Main-------------------------------- */
+
 main {
-    background-color: green
+    background-color: green;
+    flex: 1 0 auto;
+    margin-top: 45px;
 }
+
+
+/*Footer----------------------------- */
 
 footer {
     background-color:red
