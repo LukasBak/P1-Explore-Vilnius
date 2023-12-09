@@ -22,6 +22,16 @@ h1 {
     text-transform: uppercase;
    
 } 
+
+#navigation {
+    font-size: 120%;
+    letter-spacing: 0.5px;
+}
+
+#navigation > li {
+    margin-bottom: 2px;
+}
+
 /* Main-------------------------------- */
 
 main {
