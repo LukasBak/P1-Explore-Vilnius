@@ -61,9 +61,21 @@ h1 {
 /* Main-------------------------------- */
 
 main {
-  background-color: green;
+  display: flex;
   flex: 1 0 auto;
+  flex-direction: column;
 }
+
+/* Hero sections */
+
+#hero {
+    height: 500px;
+    width: 100%;
+    background: url("../images/panorama-of-night-vilnius.jpg") no-repeat center center/cover;
+    position: fixed;
+}
+
+
 
 /*Footer----------------------------- */
 
