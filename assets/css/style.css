@@ -88,6 +88,9 @@ main {
     
 }
 
+div > h2,h3 {
+    color: aliceblue;
+}
 
 
 /*Footer----------------------------- */
