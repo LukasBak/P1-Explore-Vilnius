@@ -18,7 +18,7 @@ body {
 /*Header ----------------------------------- */
 
 header {
-  background-color: yellow;
+  background-color: rgb(212, 119, 105);
 }
 
 header a {
@@ -35,7 +35,7 @@ h1 {
 /* Nav bar---------------------------------- */
 .navbar ul {
   list-style-type: none;
-  background-color: lightgreen;
+  background-color: rgb(212, 119, 105);
   padding: 0px;
   margin: 0px;
   overflow: hidden;
@@ -50,7 +50,8 @@ h1 {
 }
 
 .navbar a:hover {
-  background-color: aquamarine;
+  background-color: rgb(69, 129, 108);
+  text-decoration: underline;
 }
 
 .navbar li {
@@ -73,6 +74,18 @@ main {
     width: 100%;
     background: url("../images/panorama-of-night-vilnius.jpg") no-repeat center center/cover;
     position: fixed;
+}
+
+#image-cover {
+    background-color: transparent;
+    font-size: 120%;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    width: 50%;
+    padding-top: 10x;
+    padding-right: 5px;
+    
 }
 
 
