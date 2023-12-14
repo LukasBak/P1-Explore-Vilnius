@@ -38,8 +38,11 @@ h1 {
   list-style-type: none;
   background-color: rgb(212, 119, 105);
   padding: 0px;
-  margin: 0px;
+  margin: 0px auto;
   overflow: hidden;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .navbar a {
@@ -58,7 +61,7 @@ h1 {
 
 .navbar li {
   float: inline-start;
-  width: 30%;
+  width: 100px;
 }
 
 /* Main-------------------------------- */
