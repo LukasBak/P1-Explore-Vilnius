@@ -31,6 +31,11 @@ h1 {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   text-align:center;
+  padding-bottom: 30px;
+}
+
+p {
+    line-height: 1rem;
 }
 
 /* Nav bar---------------------------------- */
@@ -97,6 +102,13 @@ div > h2,h3 {
     color: aliceblue;
 }
 
+h2 {
+    text-align: center;
+    font-family: 'Oswald',sans-serif;
+    padding-bottom: 20px;
+}
+
+
 /*  Explore section ------------------------*/
 #history hr {
 border-bottom: 4px double #3a3a3a;
@@ -114,6 +126,8 @@ border-bottom: 4px double #3a3a3a;
     text-align: center;
     font-family: sans-serif;
     padding-top: 3px;
+    padding: 0 20px;
+    line-height: 1.5rem;
 }
 
 /* Attractions main */
@@ -173,12 +187,31 @@ border-bottom: 4px double #3a3a3a;
 
 /* Newsletter main*/
 
-form #signup-form {
-    width: 100px;
-    box-shadow: 0px 0px 3px 0 rgba(0, 0, 0, 0.3);
-    background: #fff;
-    padding: 10px;
+#signup-form {
+    width: 230px;
+    box-shadow: 0px 0px 3px 0 rgba(0, 0, 0, 0.5);
+    background: #fafafa;
+    padding: 40px;
     text-align: center;
+    margin: 25px;
+    font-family: sans-serif;
+    border: solid #3a3a3a;
+}
+
+.sign-up-button {
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+#color h2 {
+    color: #3a3a3a;
+    text-align: center; 
+    padding: 0 30px;
+}
+
+label {
+    margin-bottom: 10px;
 }
 
 /*Footer----------------------------- */
@@ -200,4 +233,6 @@ form #signup-form {
 
 footer{
     background-color: #e3e3e3;
+    margin-top: 30px;
+    padding-bottom: 15px;
 }
