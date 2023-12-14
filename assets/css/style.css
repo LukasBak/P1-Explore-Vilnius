@@ -70,9 +70,9 @@ main {
 /* Hero sections */
 
 #hero {
-    height: 500px;
+    height: 550px;
     width: 100%;
-    background: url("../images/panorama-of-night-vilnius.jpg") no-repeat center center/cover;
+    background: url("../images/panorama-of-night-vilnius.webp")no-repeat center center/cover;
     position: relative;
 }
 
