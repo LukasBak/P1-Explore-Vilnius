@@ -48,6 +48,7 @@ h1 {
   display: block;
   text-align: center;
   padding: 10px;
+  font-family: sans-serif;
 }
 
 .navbar a:hover {
@@ -127,6 +128,41 @@ border-bottom: 4px double #3a3a3a;
 }
 
 #uzgavenes p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/* Jonines */
+#jonines h2{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color:#3a3a3a;
+}
+
+.jocenter {
+    height: 200px;
+    width: 100%;
+}
+
+#jonines p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/* Light festival*/
+
+.licenter {
+    height: 200px;
+    width: 100%;
+}
+
+#lights h2 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #3a3a3a;
+}
+
+#lights p{
     text-align: center;
     font-family: sans-serif;
 }
