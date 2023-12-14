@@ -24,12 +24,13 @@ header {
 header a {
   text-decoration: none;
   color: #3a3a3a;
+  text-align: center;
 }
 
 h1 {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  text-align: center;
+  text-align:center;
 }
 
 /* Nav bar---------------------------------- */
@@ -92,6 +93,7 @@ div > h2,h3 {
     color: aliceblue;
 }
 
+/*  Explore section ------------------------*/
 #history hr {
 border-bottom: 4px double #3a3a3a;
 }
@@ -110,7 +112,24 @@ border-bottom: 4px double #3a3a3a;
     padding-top: 3px;
 }
 
+/* Attractions main */
 
+/* Uzgavenes */
+.uzcenter{
+    height: 200px;
+    width: 100%;
+}
+
+#uzgavenes h2{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color:#3a3a3a;
+}
+
+#uzgavenes p {
+    text-align: center;
+    font-family: sans-serif;
+}
 
 /*Footer----------------------------- */
 
