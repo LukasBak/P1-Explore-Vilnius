@@ -92,6 +92,25 @@ div > h2,h3 {
     color: aliceblue;
 }
 
+#history hr {
+border-bottom: 4px double #3a3a3a;
+}
+
+#history h3 {
+    color:#3a3a3a ;
+    padding-bottom:5px;
+    padding-top: 15px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+#history p {
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 3px;
+}
+
+
 
 /*Footer----------------------------- */
 
