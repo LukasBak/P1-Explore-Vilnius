@@ -15,12 +15,15 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 1500px;
+  flex-direction: column;
 }
 
 /*Header ----------------------------------- */
 
 header {
   background-color: rgb(212, 119, 105);
+  top: 0;
+  width: 100%;
 }
 
 header a {
@@ -221,12 +224,17 @@ border-bottom: 4px double #3a3a3a;
     font-family: sans-serif;
     border: solid #3a3a3a;
     font-size: 17px;
+    background-position: 50%;
 }
 
 .sign-up-button {
     margin-top: 20px;
     padding: 5px;
     text-align: center;
+}
+
+label, input {
+    display: block;
 }
 
 #color h2 {
@@ -260,7 +268,6 @@ footer{
     background-color: #e3e3e3;
     margin-top: 30px;
     padding-bottom: 15px;
+    bottom: 0;
+    width: 100%;
 }
-
-
-@media 
