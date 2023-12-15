@@ -12,7 +12,9 @@
 body {
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1500px;
 }
 
 /*Header ----------------------------------- */
@@ -131,12 +133,21 @@ border-bottom: 4px double #3a3a3a;
 }
 
 /* Attractions main */
-
+ 
+#celebrations > div {
+    width: 100%;
+    max-width: 700px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* Uzgavenes */
 .uzcenter{
     height: 200px;
-    width: 100%;
+    width: 95%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #uzgavenes h2{
@@ -163,7 +174,9 @@ border-bottom: 4px double #3a3a3a;
 
 .jocenter {
     height: 200px;
-    width: 100%;
+    width: 95%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #jonines p {
@@ -177,7 +190,9 @@ border-bottom: 4px double #3a3a3a;
 
 .licenter {
     height: 200px;
-    width: 100%;
+    width: 95%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #lights h2 {
@@ -246,3 +261,6 @@ footer{
     margin-top: 30px;
     padding-bottom: 15px;
 }
+
+
+@media 
