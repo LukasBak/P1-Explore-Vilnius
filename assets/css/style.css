@@ -115,11 +115,16 @@ h2 {
 
 
 /*  Explore section ------------------------*/
-#history hr {
+#history hr, #cuisine hr, #people hr, #explore hr, #art hr, #people hr {
 border-bottom: 4px double #3a3a3a;
 }
 
-#history h3 {
+#nature h3,
+#cuisine h3,
+#people h3,
+#explore h3,
+#art h3,
+#peopleh3 {
     color:#3a3a3a ;
     padding-bottom:5px;
     padding-top: 15px;
@@ -127,7 +132,7 @@ border-bottom: 4px double #3a3a3a;
     text-align: center;
 }
 
-#history p {
+#nature p,#cuisine p,#people p,#explore p,#art p,#people p {
     text-align: center;
     font-family: sans-serif;
     padding-top: 3px;
@@ -225,6 +230,7 @@ border-bottom: 4px double #3a3a3a;
     border: solid #3a3a3a;
     font-size: 17px;
     background-position: 50%;
+    margin: auto;
 }
 
 .sign-up-button {
@@ -245,6 +251,7 @@ label, input {
 
 label {
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 /*Footer----------------------------- */
