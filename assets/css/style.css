@@ -105,6 +105,7 @@ main {
 
 div > h2,h3 {
     color: aliceblue;
+    text-align: center;
 }
 
 h2 {
@@ -256,6 +257,7 @@ label, input {
     text-align: center; 
     padding: 0 30px;
     padding-bottom: 10%;
+    padding-top: 20px;
 }
 
 label {
