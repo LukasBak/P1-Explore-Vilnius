@@ -82,3 +82,40 @@ Goals of the website:
 ![Phone Attractions Page](documentation/support-images/phone-lh2.png)
 ![Phone Newsletter Page](documentation/support-images/phone-lh3.png)
 
+- I have valitated my code using W3C html and css validators
+
+![Html Validation](documentation/support-images/html-valid.png)
+![CSS Validation](documentation/support-images/css-valid.png)
+
+- I have tested Newsletter sign up with was successful.
+
+![Form Completion](documentation/support-images/signup-complete.png)
+
+### Deployment
+
+- This site has been deployed to Github pages.
+- In the Github repository, go to the Settings tab.
+- On the left side of website look for Pages.
+- Under build and deployment, click on Deploy and select Deploy From branch, click save.
+- Once the main branch has been selected and saved, the page will be automatically refreshed with a ribbon display to indicate the successful deployment.
+- Live link can be found here: [Explore Vilnius](https://lukasbak.github.io/P1-Explore-Vilnius/index.html)
+
+### Bugs
+
+- Currently there has benn no bugs found.
+
+### Credits
+
+#### Content
+
+- Code used for social media links was taken from CI love running project.
+- Social media icons has been taken from Fontawesome
+- Google Fonts has been used for fonts within website: 'Oswald' and sans serif
+
+- Hero image has been taken from Go Vilnius by Gabriel Khiterer.
+- Jonines image has been taken from Lrt website photo taken by D. Rimeika.
+- Uzgavenes image has been taken from Lrt website photo taken by E. Ovčarenko.
+- Light festival image has been taken from luciassociation photo taken by Saulius Ziura.
+
+- Big thank you for my mentor for helping me out with the project with the limited time we had.
+- Also big thanks to CI Tutors who helped me troubleshooting in some areas of web development.
