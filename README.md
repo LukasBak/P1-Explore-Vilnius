@@ -1,6 +1,6 @@
-# Explore Vilnius!
+# Explore Vilnius
 
-[View Deployed Site Here] (<https://lukasbak.github.io/P1-Explore-Vilnius/index.html>) 
+[View Deployed Site Here] (<https://lukasbak.github.io/P1-Explore-Vilnius/index.html>)
 
 Explore Vilnius is website about is a site that tries to encourage people to visit capital of Lithuania Vilnius. It is targeted towards people who might be interested to visit eastern european countries. It's main purpose is to showcase some traditional celebrations which people could partake in.
 
@@ -62,3 +62,23 @@ Goals of the website:
 - Useful adittion to the website would be contact form. It could be used both for people interested in the events and event organisers.
 - Aditional events and customary celebrations would be a good edition to attract more people in to the website.
 - Adding a video to showcase activies within Vilnius would be a useful edition.
+
+### Testing
+
+- I have tested that this webpage works on different browsers: Google Chrome, Edge, Opera and Firefox
+
+![Chrome](documentation/support-images/chrome.png)
+![Edge](documentation/support-images/edge.png)
+![Firefox](documentation/support-images/firefox.png)
+![Opera](documentation/support-images/opera.png)
+
+- I have tested my website on lighthouse for both phone and dekstop.
+
+![Desktop Main Page](documentation/support-images/dekstop-lh1.png)
+![Desktop attractions Page](documentation/support-images/dekstop-lh2.png)
+![Desktop Newsletter Page](documentation/support-images/dekstop-lh3.png)
+
+![Phone Main Page](documentation/support-images/phone-lh1)
+![Phone Attractions Page](documentation/support-images/phone-lh2.png)
+![Phone Newsletter Page](documentation/support-images/phone-lh3.png)
+
