@@ -119,3 +119,5 @@ Goals of the website:
 
 - Big thank you for my mentor for helping me out with the project with the limited time we had.
 - Also big thanks to CI Tutors who helped me troubleshooting in some areas of web development.
+
+- Final words: This project has been a big learning experience sadly I didn't have enough time to implement some other ideas that I had. I had came up with these ideas too late to impelement some of them has been added as future features. I wil make the next project stand out more.
